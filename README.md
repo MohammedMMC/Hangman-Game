@@ -27,4 +27,4 @@ Feel free to fork this repository and submit pull requests with improvements or 
 
 ## Play Now
 
-[**https://mohammedmmc.github.io/Hangman-Game**](https://mohammedmmc.github.io/Hangman-Game)
+[**mohammedmmc.github.io/Hangman-Game**](https://mohammedmmc.github.io/Hangman-Game)
