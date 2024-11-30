@@ -52,6 +52,7 @@ body {
   padding: 68px 40px;
   border-radius: 10px;
   margin: 0 calc(12px);
+  margin: 20px 10px;
 }
 
 .hangman img {
@@ -175,7 +176,6 @@ body {
   .container {
     flex-direction: column;
     align-items: center;
-    max-height: 100vh;
     padding: 40px 20px;
   }
 
