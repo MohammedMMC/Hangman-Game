@@ -1,6 +1,6 @@
 ﻿# Hangman Game
 
-A simple Hangman game built using **HTML**,**CSS** and **JavaScript**.
+A simple Hangman game built using **HTML**, **CSS** and **JavaScript**.
 Test your word-guessing skills in this fun and interactive game!
 
 ![Hangman Game Preview](https://github.com/MohammedMMC/Hangman-Game/blob/main/preview.png?raw=true)
